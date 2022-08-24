@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangodinho98" alt="dangodinho98" /></a> </p>
 
-- 🌱 I’m currently learning **Aws, Azure, Go, RoR**
+- 🌱 I’m currently learning **https://app.pluralsight.com/profile/daniel-soares-98**
 
 - 💬 Ask me about **.NET, C#**
 
@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/danielgodinhosoares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielgodinhosoares" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
